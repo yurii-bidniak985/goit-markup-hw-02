@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #434455
-    background-color #ffffff; 
+    color: #434455;
+    background-color: #ffffff; 
 }
 
 header {
@@ -62,7 +62,7 @@ h3 {
     color: #2E2F42;
 }
 
-ul p {
+li p {
     font-weight: 400;
     color: #434455;
 }
@@ -82,9 +82,46 @@ ul p {
     font-size: 16px;   
 }
 
+.four h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.four ul {
+    text-align: left;
+}
+
+.four h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.four p {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.logo {
+    color: #4D5AE5;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    max-width: 200px;
+}
+
+.logo-color {
+    color: #F4F4FD;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    max-width: 200px;
+}
+
 footer {
     background-color: #2E2F42;
     color: #F4F4FD;
     font-weight: 400;
+    font-size: 16px;
 }
 
