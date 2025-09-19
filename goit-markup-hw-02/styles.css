@@ -68,7 +68,7 @@ address a:focus {
     color: #404BBF;
 }
 
-.contacts-link { 
+.contacts-link {
     letter-spacing: 0.02em;
 }
 
@@ -121,7 +121,7 @@ address a:focus {
     background-color: #F4F4FD;
 }
 
-.three-name{
+.three-name {
     background-color: #F4F4FD;
     font-size: 36px;
     line-height: 1.11;
@@ -131,7 +131,7 @@ address a:focus {
     color: #2e2f42;
 }
 
- .three-text {
+.three-text {
     background-color: #ffffff;
 }
 
@@ -194,7 +194,7 @@ address a:focus {
     text-transform: none;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
-        font-size: 16px;
+    font-size: 16px;
 }
 
 footer {
