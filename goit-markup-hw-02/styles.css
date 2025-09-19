@@ -68,6 +68,10 @@ address a:focus {
     color: #404BBF;
 }
 
+.contacts-link { 
+    letter-spacing: 0.02em;
+}
+
 .one {
     background-color: #2E2F42;
     color: #ffffff;
@@ -86,6 +90,7 @@ address a:focus {
     color: #ffffff;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -110,6 +115,10 @@ address a:focus {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.three {
+    background-color: #F4F4FD;
 }
 
 .three-name{
